@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481706207 source:c:\users\bogdan m\desktop\cursuri\asd\tema8\qsort\main.cpp
+	<iostream>
+	<cstdlib>
+
